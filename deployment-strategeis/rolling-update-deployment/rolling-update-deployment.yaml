@@ -4,7 +4,7 @@ metadata:
   labels:
     app: online-shop
   name: online-shop
-  namespace: rolling-ns
+  namespace: rolling-update-ns
 spec:
   replicas: 4
   strategy:
